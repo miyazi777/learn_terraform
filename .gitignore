@@ -1,0 +1,6 @@
+*~
+*.tfstate
+*.tfstate.backup
+tags
+config.tfvars
+
